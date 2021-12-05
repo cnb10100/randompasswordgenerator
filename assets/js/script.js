@@ -11,9 +11,6 @@ var characterUpAry = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var numberAry = "0123456789";
 var specAry = "!#$%&'()*+,-./:;<=>?@[]^_`{|}~";
 
-// User choices that will be concatenated
-var userInputs;
-
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
